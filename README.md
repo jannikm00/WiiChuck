@@ -1,3 +1,5 @@
+Originally made by https://github.com/madhephaestus/WiiChuck
+
 # WiiChuck
 An Arduino library for  the Nunchuk Controller over I²C.
 
