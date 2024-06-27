@@ -1,5 +1,10 @@
 Originally made by https://github.com/madhephaestus/WiiChuck
 
+<img width="384" alt="image" src="https://github.com/jannikm00/WiiChuck/assets/72359748/f6308695-ad29-4ad1-ae70-3d7f34b78c4f">
+
+
+
+
 # WiiChuck
 An Arduino library for  the Nunchuk Controller over I²C.
 
